@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Kurunegala
-* ✉️  You can contact me at [heshanhfernando@gmail.com](mailto:heshanhfernando@gmail.com)
+* ✉️  You can reach me on [hirushafernando.com](https://hirushafernando.com/)
 * 🤝  I'm open to collaborating on Angular, Python, React Projects
 
 
