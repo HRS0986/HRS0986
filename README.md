@@ -54,5 +54,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.stackoverflow.com/users/12063253/hirusha-fernando" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/HirushaFernan16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://medium.com/@heshanhfernando" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="32" height="32" /></a></p>  
-  
+  [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/hirushafernando)
 
