@@ -46,24 +46,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Connect With Me
 
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://www.facebook.com/hirusha.fernando.940" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-      <a href="https://www.github.com/HRS0986" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-      <a href="http://www.instagram.com/__h3sh__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-      <a href="https://www.linkedin.com/in/hirusha-fernando-379a85194" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-      <a href="https://www.stackoverflow.com/users/12063253/hirusha-fernando" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-      <a href="https://www.twitter.com/HirushaFernan16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-      <a href="https://medium.com/@heshanhfernando" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="32" height="32" /></a>
-    </td>
-    <td align="right">
-      <a href="https://www.buymeacoffee.com/hirushafernando" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left"> 
+  <a href="https://www.facebook.com/hirusha.fernando.940" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/HRS0986" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="http://www.instagram.com/__h3sh__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hirusha-fernando-379a85194" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.stackoverflow.com/users/12063253/hirusha-fernando" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/HirushaFernan16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://medium.com/@heshanhfernando" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="32" height="32" /></a>
+<a href="https://www.buymeacoffee.com/hirushafernando" target="_blank" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px;">
+</a></p>
 
 
 
